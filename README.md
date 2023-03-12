@@ -1,8 +1,4 @@
-# [`body`](index.html)
+# [phlox mural](https://webmural.com/phlox)
 
-## [help](../../issues/new)
-
-* [HTML](https://developer.mozilla.org/HTML)
-* [CSS](https://developer.mozilla.org/CSS)
-* [SVG](https://developer.mozilla.org/SVG)
-* [github](https://docs.github.com)
+* [HTML plate](index.html)
+* [CSS petal](phlox.css)
